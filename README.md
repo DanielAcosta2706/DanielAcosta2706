@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center"> Hola Mundo soy, <a href=""> Daniel Acosta </a>✋</h1>
 </div>
-<img src="https://previews.123rf.com/images/naypong/naypong1610/naypong161000125/63895553-tecnolog%C3%ADa-fondos.jpg"/>
+<img src="https://previews.123rf.com/images/naypong/naypong1610/naypong161000125/63895553-tecnolog%C3%ADa-fondos.jpg" height="200px"/>
 
 ### Hi there 👋
 
