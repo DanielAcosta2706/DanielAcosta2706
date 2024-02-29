@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"> Hola Mundo soy, <a href=""> Daniel Acosta </a>✋</h1>
+  <h1 align="center"> Hola, soy <a href=""> Daniel Acosta </a>✋</h1>
 </div>
 <img src="https://img.freepik.com/vector-premium/fondo-tecnologia-alta-tecnologia-digital_29971-1131.jpg" height="300px" width="100%"/>
 
