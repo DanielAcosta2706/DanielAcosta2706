@@ -6,7 +6,7 @@
 
 <hr/>
 
-<div>
+<div align="center">
   <h3>👨‍💻 About me:</h3>
   <ul>
     <li>📩 How to reach me: danyel2706@gmail.com</li>
