@@ -34,5 +34,5 @@
 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAcosta2706"></a>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAcosta2706)]
+
 </div>
