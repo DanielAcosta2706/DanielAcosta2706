@@ -4,24 +4,14 @@
   <p>I'm a frontend developer, passionate about creating captivating digital experiences. With a background in technologies such as HTML, Tailwindcss, React, Next.js, I enjoy transform creative designs into interactive and functional user interfaces...</p>
 </div>
 <hr/>
+<div>
 <h3>👨‍💻 About me:</h3>
 <ul>
   <li>📩 How to reach me: danyel2706@gmail.com</li>
   <li>📖 I like to learn new technologies</li>
   <li>👊 I like team work and take new challenges</li>
 </ul>
+<h3>🔨Languages and Tools:</h3>
+</div>
 
-<!--
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
