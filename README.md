@@ -5,7 +5,10 @@
 </div>
 <hr/>
 <h3>👨‍💻 About me:</h3>
-
+<ul>
+  <li>📩 How to reach me: danyel2706@gmail.com</li>
+  <li>📖 I like to learn new technologies</li>
+</ul>
 
 <!--
 
