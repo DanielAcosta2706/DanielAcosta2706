@@ -26,4 +26,5 @@
 <div>
   <h3>📊 My Stats</h3>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DanielAcosta2706&theme=monokai&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+  ![DanielAcosta2706 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
