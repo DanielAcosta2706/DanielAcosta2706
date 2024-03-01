@@ -8,6 +8,7 @@
 <ul>
   <li>📩 How to reach me: danyel2706@gmail.com</li>
   <li>📖 I like to learn new technologies</li>
+  <li>👊 I like team work and take new challenges</li>
 </ul>
 
 <!--
