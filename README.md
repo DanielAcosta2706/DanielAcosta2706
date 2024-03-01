@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center"> Hola, soy <a href=""> Daniel Acosta </a>✋</h1>
 </div>
-<img src="https://wallpaperaccess.com/full/5105718.jpg" height="200px" width=""/>
+<img src="https://wallpaperaccess.com/full/5105718.jpg" height="200px" width="500px"/>
 
 ### Hi there 👋
 
