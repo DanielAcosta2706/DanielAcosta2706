@@ -13,6 +13,16 @@
 </ul>
 <h3>🔨Languages and Tools:</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" height="40" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" height="40" width="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JAVASCRIPT" alt="JAVASCRIPT" height="40" width="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BOOTSTRAP" alt="BOOTSTRAP" height="40" width="40"/>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TAILWINDCSS" alt="TAILWINDCSS" height="40" width="40"/>
+            <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png" title="REACT" alt="REACT" height="40" width="40"/>
+              <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="NEXT.JS" alt="NEXT.JS" height="40" width="40"/>
+                       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NODE.JS" alt="NODE.JS" height="40" width="40"/>
+              <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MYSQL" alt="MYSQL" height="40" width="40"/>
+
+ 
 </div>
 
 
