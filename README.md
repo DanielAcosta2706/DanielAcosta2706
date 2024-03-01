@@ -25,16 +25,10 @@
 <hr/>
 <div>
   <h3>📊 My Stats</h3>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DanielAcosta2706&theme=monokai&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DanielAcosta2706&theme=monokai&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/> 
+    <source srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 </div>
