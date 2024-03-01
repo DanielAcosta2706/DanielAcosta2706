@@ -3,7 +3,9 @@
   <img src="https://wallpaperaccess.com/full/5105718.jpg" title="BackgroundImage" alt="BackgroundImage" height="200px" width="1000px"/>
   <p>I'm a frontend developer, passionate about creating captivating digital experiences. With a background in technologies such as HTML, Tailwindcss, React, Next.js, I enjoy transform        creative designs into interactive and functional user interfaces...</p>
 </div>
+
 <hr/>
+
 <div>
   <h3>👨‍💻 About me:</h3>
   <ul>
@@ -22,7 +24,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NODE.JS" alt="NODE.JS" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MYSQL" alt="MYSQL" height="40" width="40"/>
 </div>
+
 <hr/>
+
 <div>
   <h3>📊 My Stats</h3>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DanielAcosta2706&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
@@ -31,7 +35,5 @@
     <source srcset="https://github-readme-stats.vercel.app/api?username=DanielAcosta2706&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api?username=DanielAcosta2706&show_icons=true" />
   </picture>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAcosta2706"></img>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAcosta2706&theme=transparent"></img>
 </div>
