@@ -37,5 +37,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=DanielAcosta2706&show_icons=true" />
   </picture>
   </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAcosta2706&theme=transparent"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAcosta2706&theme=transparent&langs_count=8"></img>
 </div>
