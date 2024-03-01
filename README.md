@@ -31,5 +31,6 @@
     <source srcset="https://github-readme-stats.vercel.app/api?username=DanielAcosta2706&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api?username=DanielAcosta2706&show_icons=true" />
   </picture>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAcosta2706anuraghazra&hide_progress=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAcosta2706)](https://github.com/anuraghazra/github-readme-stats)
 </div>
