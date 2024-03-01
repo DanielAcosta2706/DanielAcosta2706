@@ -9,9 +9,9 @@
 <div align="center">
   <h3>👨‍💻 About me:</h3>
   <ul align="center">
-    <li>📩 How to reach me: danyel2706@gmail.com</li>
-    <li>📖 I like to learn new technologies</li>
-    <li>👊 I like team work and take new challenges</li>
+    <li align="center">📩 How to reach me: danyel2706@gmail.com</li>
+    <li align="center">📖 I like to learn new technologies</li>
+    <li align="center">👊 I like team work and take new challenges</li>
   </ul>
   <h3>🔨Languages and Tools:</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" height="40" width="40"/>
