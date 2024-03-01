@@ -4,7 +4,7 @@
   <p>I'm a frontend developer, passionate about creating captivating digital experiences. With a background in technologies such as HTML, Tailwindcss, React, Next.js, I enjoy transform creative designs into interactive and functional user interfaces...</p>
 </div>
 <hr/>
-👨‍💻<h3>About me:</h3>
+<h3>👨‍💻 About me:</h3>
 
 
 <!--
