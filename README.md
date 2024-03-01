@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center"> Hola, soy <a href=""> Daniel Acosta </a>✋</h1>
 </div>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fes%2Fdesktop-wallpaper-hvzfi&psig=AOvVaw1A2y2Rv2evW2g2cNym-fFM&ust=1709373705507000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjN_rbn0oQDFQAAAAAdAAAAABAE" height="150px" width="100%"/>
+<img src="https://e1.pxfuel.com/desktop-wallpaper/801/916/desktop-wallpaper-programmer-programming-code-routine-minimalist-programming-code.jpg" height="150px" width="100%"/>
 
 ### Hi there 👋
 
