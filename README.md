@@ -25,5 +25,5 @@
 <hr/>
 <div>
   <h3>📊 My Stats</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=DanyelAcosta2706&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DanyelAcosta2706&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
 </div>
