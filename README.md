@@ -12,7 +12,7 @@
   <li>👊 I like team work and take new challenges</li>
 </ul>
 <h3>🔨Languages and Tools:</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" height="40" width="40"/>
 </div>
 
 
