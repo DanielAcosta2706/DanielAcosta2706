@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center"> Hi, I'm <a href=""> Daniel Acosta </a>✋</h1>
 <img src="https://wallpaperaccess.com/full/5105718.jpg" height="200px" width="1000px"/>
-  <p font-weight="bold">Soy un desarrollador frontend apasionado por crear experiencias digitales cautivadoras. Con una formación en tecnologías como HTML, TailwindCss, React, Next.Js, entre otras; me gusta convertir diseños creativos en interfaces de usuario interactivas y funcionales.</p>
+  <p>I'm a frontend developer, passionate about creating captivating digital experiences. With a background in technologies such as HTML, Tailwind CSS, React, Next.js, I enjoy transform creative designs into interactive and functional user interfaces...</p>
 </div>
 
 
